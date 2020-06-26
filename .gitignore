@@ -122,8 +122,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-.dmypy.json
+.dmypy.jso
 dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Outpur files
+out/
